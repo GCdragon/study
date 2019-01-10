@@ -1,4 +1,4 @@
-package com.gcl.study;
+package com.gcl;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

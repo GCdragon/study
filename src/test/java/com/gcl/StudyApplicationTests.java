@@ -1,4 +1,4 @@
-package com.gcl.study;
+package com.gcl;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
